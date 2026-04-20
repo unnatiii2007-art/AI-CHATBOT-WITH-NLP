@@ -73,3 +73,7 @@ This chatbot is a basic implementation and works only with the provided dataset.
 Author
 
 Unnati Singh
+
+#OUTPUT
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5090943c-90c6-4c51-b836-95cb8557f98e" />
